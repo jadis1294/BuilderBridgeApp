@@ -1,0 +1,7 @@
+ufo.png -> scale 0.5 0.5
+rock1.pg -> scale 0.1 0.1
+rock tower.png -> scale 0.15 0.15
+rockina.png -> scale 0.2 0.2
+palme.png scale 0.16 0.16
+palmina.png 0.2 0.2
+felcedx.png 0.8 0.8
